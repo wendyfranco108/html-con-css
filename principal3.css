@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* Principal3*/
+
+.flexbox{
+	display: flex;
+	border: 2px solid blue;
+	background-color: green;
+	padding: 10px; 
+	width: 25%;	
+}
+
+#blanco {
+	padding: 20px; 
+	margin: 10px; 
+	background-color: white;
+	
+}
+
+#rosado{
+	padding: 20px; 
+	margin: 10px; 
+	background-color: pink;
+}
+
+#celeste{
+	padding: 20px; 
+	margin: 10px; 
+	background-color: skyblue;
+}
